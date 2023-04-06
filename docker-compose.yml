@@ -1,0 +1,8 @@
+version: "2.5"
+
+services:
+    fortune:
+        image: "testwork"
+
+        ports:
+          - "5001:5000"
